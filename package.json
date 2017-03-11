@@ -1,0 +1,23 @@
+{
+  "name": "file_metadata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andydlindsay/file-metadata.git"
+  },
+  "author": "Andy Lindsay <andydlindsay@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andydlindsay/file-metadata/issues"
+  },
+  "homepage": "https://github.com/andydlindsay/file-metadata#readme",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  }
+}
